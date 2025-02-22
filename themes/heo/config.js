@@ -83,7 +83,7 @@ color_2: '#ffa31a'
 HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
 HEO_SOCIAL_CARD_TITLE_1: 'Community Channel',
 HEO_SOCIAL_CARD_TITLE_2: 'Join Our Community for Discussions & Sharing',
-HEO_SOCIAL_CARD_TITLE_3: 'Click to Send WhatsApp'
+HEO_SOCIAL_CARD_TITLE_3: 'Click to Send WhatsApp',
 HEO_SOCIAL_CARD_URL: 'https://wa.me/message/KE5RR5YOIEHOG1',
 
 // *****  以下配置无效，只是预留开发 ****
