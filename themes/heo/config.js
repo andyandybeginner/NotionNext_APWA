@@ -56,18 +56,18 @@ HEO_INFO_CARD_TEXT3: 'Learn More',
 HEO_GROUP_ICONS: [
 {
 title_1: 'Singlife',
-img_1: '/images/heo/sl-img-logo.webp',
+img_1: 'https://raw.githubusercontent.com/andyandybeginner/picture/refs/heads/main/sl-img-logo.webp',
 color_1: '#ffffff',
 title_2: 'Manulife',
-img_2: '/public/images/heo/manulife.webp',
+img_2: 'https://raw.githubusercontent.com/andyandybeginner/picture/refs/heads/main//manulife.webp',
 color_2: '#ffffff'
 },
 {
 title_1: 'Income',
-img_1: '/public/images/heo/income.webp',
+img_1: 'https://raw.githubusercontent.com/andyandybeginner/picture/refs/heads/main//income.webp',
 color_1: '#ffffff',
 title_2: 'FWD',
-img_2: '/public/images/heo/fwd.webp',
+img_2: 'https://raw.githubusercontent.com/andyandybeginner/picture/refs/heads/main//fwd.webp',
 color_2: '#ffa31a'
 },
 {
@@ -75,7 +75,7 @@ title_1: 'iGP',
 img_1: 'https://raw.githubusercontent.com/andyandybeginner/picture/refs/heads/main/iGP512.png',
 color_1: '#3385ff',
 title_2: 'FWD',
-img_2: '/public/images/heo/fwd.webp',
+img_2: 'https://raw.githubusercontent.com/andyandybeginner/picture/refs/heads/main//fwd.webp',
 color_2: '#ffa31a'
 },
 ],
