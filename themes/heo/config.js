@@ -56,7 +56,7 @@ HEO_INFO_CARD_TEXT3: 'Learn More',
 HEO_GROUP_ICONS: [
 {
 title_1: 'Singlife',
-img_1: '/public/images/heo/sl-img-logo.webp',
+img_1: '/images/heo/sl-img-logo.webp',
 color_1: '#ffffff',
 title_2: 'Manulife',
 img_2: '/public/images/heo/manulife.webp',
