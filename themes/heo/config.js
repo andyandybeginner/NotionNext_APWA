@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
   { title: '亲爱的客户，一站式管理所有保单', url: '' },
-  { title: '亲！常回来看看！', url: '' },
+  { title: 'Test! Test!！', url: '' },
   ],
 
   // 英雄区左右侧组件颠倒位置
